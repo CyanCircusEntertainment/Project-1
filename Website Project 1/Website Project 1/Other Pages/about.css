@@ -248,3 +248,10 @@ li {
   padding : 10px;
   font-size: 25px;
 }
+
+.copyright {
+  text-align : left;
+  color : white;
+  padding-top : 20px;
+  font-size: 20px;
+}

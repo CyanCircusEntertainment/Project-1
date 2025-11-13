@@ -235,7 +235,7 @@ h2 {
   color : rgb(0, 221, 147);
 }
 
-p {
+ p {
   text-align : center;
   color : white;
   padding : 50px;
@@ -257,4 +257,11 @@ margin-right: auto;
 object-position: center;
 align-content: center;
 width: 100%;
+}
+
+.copyright {
+  text-align : left;
+  color : white;
+  padding-top : 20px;
+  font-size: 20px;
 }
